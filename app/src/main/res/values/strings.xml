@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Companion</string>
+    <string name="todo">TODO</string>
+    <string name="get_started">Get Started</string>
+    <string name="rider">Rider</string>
+    <string name="driver">Driver</string>
+    <string name="sedan">Sedan</string>
+    <string name="choose_the_vehicle_you_want_share_with_other_person">Choose the vehicle you want share with other person</string>
+    <string name="bike">Bike</string>
+    <string name="micro">Micro</string>
+    <string name="mini">Mini</string>
+    <string name="title_activity_request">Map</string>
+    <string name="request">Request</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="button">Button</string>
+</resources>
